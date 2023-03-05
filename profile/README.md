@@ -15,7 +15,8 @@ Our mission is to efficiently collect, analyse and forecast air quality data to 
 
 Here's a list of our opensource repositories:
 
-- [AirQo API](https://github.com/airqo-platform/AirQo-api)
-- [AirQo Frontend](https://github.com/airqo-platform/AirQo-frontend)
-- [AirQo Hardware](https://github.com/airqo-platform/AirQo-hardware)
+- [AirQo API](https://github.com/airqo-platform/AirQo-api): Contains all the microservices and modules associated with the AirQo Platform
+- [AirQo Frontend](https://github.com/airqo-platform/AirQo-frontend): Contains all the frontend implementations which include mobile app, website and the Analytics Platform
+- [AirQo Hardware](https://github.com/airqo-platform/AirQo-hardware): Contains all the hardware implementation artifacts including the firmware and designs
+
 
