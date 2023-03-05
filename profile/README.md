@@ -1,5 +1,7 @@
 # AirQo Platform
 
+![cloudy](https://unsplash.com/photos/zrj-TPjcRLA)
+
 ## About
 
 At AirQo we empower communities across Africa with accurate, hyperlocal, and timely air quality data to drive air pollution mitigation actions.
