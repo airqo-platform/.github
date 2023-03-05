@@ -2,7 +2,12 @@
 
 ## About
 
-[Organization Name] is a [brief description of the organization's mission and purpose]. Our goal is to [insert main goal or objective of the organization].
+At AirQo we empower communities across Africa with accurate, hyperlocal, and timely air quality data to drive air pollution mitigation actions.
+
+Our Vision is clean air for all African cities.
+
+Our mission is to efficiently collect, analyse and forecast air quality data to international standards and work with partners to reduce air pollution and raise awareness of its effects in African cities.
+
 
 ## Repositories
 
