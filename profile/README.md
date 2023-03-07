@@ -1,6 +1,6 @@
 # AirQo Platform
 
-![cloudy](https://images.unsplash.com/photo-1469365556835-3da3db4c253b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80)
+![cloudy](https://res.cloudinary.com/dbibjvyhm/image/upload/v1678186594/Screenshot_2023-03-07_at_13.56.13_tnufl7.png)
 
 ## About
 
